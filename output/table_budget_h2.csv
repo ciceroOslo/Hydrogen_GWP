@@ -1,4 +1,4 @@
-,H2 burden [Tg],H2 lifetime [yrs],H2 atm lifetime [yrs],H2 chem loss [Tg/yr],H2 chem prod [Tg/yr],H2 dry dep [Tg/yr],H2 estimated emissions [Tg/yr]
+,H2 burden [Tg],H2 lifetime [yrs],H2 atm lifetime [yrs],H2 chem loss [Tg/yr],H2 chem prod [Tg/yr],H2 soil sink [Tg/yr],H2 estimated emissions [Tg/yr]
 GFDL-emi,192.4082,2.500433073705701,8.620535624278945,22.31975,45.09583,54.6302,31.85412
 GFDL_nudge,187.9586,2.4007456212505627,8.662261458824917,21.69856,45.03848,56.5932,33.25328000000001
 INCA,194.5285,2.6134244776570172,8.657381261051007,22.46967,47.10366,51.964659999999995,27.33066999999999
