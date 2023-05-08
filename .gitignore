@@ -1,2 +1,3 @@
 #Ignore outputted figures
 output/*.png
+output/*
