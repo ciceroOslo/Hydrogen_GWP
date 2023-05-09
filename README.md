@@ -3,7 +3,7 @@ Code and data for calculation of GWPs in the Hydrogen project.
 
 ## Content
 - [Main notebook for GWP calulations](https://github.com/ciceroOslo/Hydrogen_GWP/blob/main/GWP_notebook.ipynb)
-Run this first, as it provides input for all of or most of the other notebooks. You can also see most of the calculations here
+Run this first, as it provides input for all of or most of the other notebooks. You can also see most of the calculations here.
 For several of the notebooks to run, it needs to be run both with adjust_drydep=False, and with adjust_drydep=True and drydeposition values according to your needs. 
 
 
